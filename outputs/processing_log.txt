@@ -1,0 +1,7 @@
+AI Loan Advisory Chatbot
+PDF Processing Log
+============================================================
+
+Successful Documents : 36
+Failed Documents     : 0
+
