@@ -1,6 +1,6 @@
-# AI Loan Advisory Agent
+# AI Loan Advisory Chatbot
 
-An AI-powered Loan Advisory Agent that enables users to ask loan-related questions in natural language and receive accurate, source-backed answers from financial documents.
+An AI-powered Loan Advisory Chatbot that enables users to ask loan-related questions in natural language and receive accurate, source-backed answers from financial documents.
 
 The system leverages Retrieval-Augmented Generation (RAG) to retrieve relevant information from loan policies, banking guidelines, and financial documents before generating responses. By grounding every answer in trusted sources, the agent minimizes hallucinations and provides reliable financial guidance while maintaining data privacy.
 
