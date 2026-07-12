@@ -80,11 +80,11 @@ telecommunication network or any error in any software or hardware systems beyon
 Bank.
 23. I agree that the Bank may disclose, in strict confidence, to other institutions, such Personal
 Information as may be reasonably necessary for reasons inclusive of:
- 1. For participation in any telecommunication or electronic clearing network
- 2. In compliance with a legal directive
- 3. For credit rating by recognized credit rating agencies
- 4.For fraud prevention purposes
- 5.To credit information bureaus.
+1. For participation in any telecommunication or electronic clearing network
+2. In compliance with a legal directive
+3. For credit rating by recognized credit rating agencies
+4.For fraud prevention purposes
+5.To credit information bureaus.
 24. I give consent to the Bank to disclose information provided in the account opening form for the
 purpose of cross selling by HBL Global Ltd and any other marketing agent/s and/or contractors with
 whom the Bank enters, or has entered into any arrangement, in connection with providing of
@@ -97,16 +97,16 @@ non-fund-based credit facilities to me, the Bank, requires my consent for the di
 information and data relating to me, of the credit facility availed of/to be availed, by me, obligations
 assumed/ to be assumed, by me, in relation thereto and default, if any, committed by me, in discharge
 thereof. Accordingly, I, hereby agree and give consent for the disclosure by the Bank of all or any such,
- 1.information and data relating to me
- 2.the information or data relating to any credit facility availed of/ to be availed, by me, and
- 3.default, if any, committed by me in discharge of my such obligation, as the Bank may deem
+1.information and data relating to me
+2.the information or data relating to any credit facility availed of/ to be availed, by me, and
+3.default, if any, committed by me in discharge of my such obligation, as the Bank may deem
 appropriate and necessary, to disclose and furnish to Credit Information Bureau (India) Ltd. and any
 other agency authorised in this behalf by RBI.I, declare that the information and data furnished by me to
 the Bank are true and correct.
 I, undertake that:
- 1. The Credit Information Bureau (India) Ltd. and any other agency so authorised may use,
+1. The Credit Information Bureau (India) Ltd. and any other agency so authorised may use,
 process the said information and data disclosed by the Bank in the manner as deemed fit by them; and
- 2. The Credit Information Bureau (India) Ltd. and any other agency so authorised may furnish for
+2. The Credit Information Bureau (India) Ltd. and any other agency so authorised may furnish for
 consideration, the processed information and data or products thereof prepared by them, to banks/
 financial institutions and other credit grantors or registered users, as may be specified by the Reserve
 Bank in this behalf.
@@ -226,21 +226,16 @@ above. I also authorize HDFC Bank to link & authenticate my Aadhaar number to al
 relationships with the Bank ,both existing and as may be opened in future. I will not hold HDFC Bank or
 any of its officials responsible in case of any incorrect information provided by me.
 Drive your dream car today with XPRESS Car Loan!
-
 ()
-
 Aa
 Aa
-
 Adjust Text Color
 Adjust Background Color
 Navigation
 Screen Reader Options
- for start reading.
-× 
-
+for start reading.
 ×
-
+×
 ×
 ` 1 2 3 4 5 6 7 8 9 0 - = del
 tab q w e r t y u i o p [ ] \

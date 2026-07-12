@@ -95,7 +95,7 @@ You are Eligible for a Loan Amount upto
 I9,00,000
 Property Cost
 I10,00,000
- Let Us Contact You
+Let Us Contact You
 Existing Loan
 Principal Outstanding
 I
@@ -119,7 +119,7 @@ Proposed EMI
 I 20,524
 SAVING IN EMI
 I2,018
- Let Us Contact You
+Let Us Contact You
 Documents for Home Loan
 For home loan approval, you need to submit the following documents for applicant / all co-applicants
 along with the completed and signed Loan application form.
@@ -241,7 +241,7 @@ loan under fixed rate term/Fixed rate loan to Variable rate – Upto 1.50% of th
 | Premature closure charges | • Adjustable Loans (ARHL) and Combination Home Loan
 (“CRHL”) during the period of applicability of the Variable of interest – Nil • Fixed Loans
 (“FRHL”) and Combination Home Loan (“CRHL”) during the period of applicability of the Fixed
- of interest - 2% plus applicable taxes/statutory except when part or full prepayment is being made
+of interest - 2% plus applicable taxes/statutory except when part or full prepayment is being made
 through own sources |
 | Property Document Retention charges | Rs. 1000 per calendar month, after 2 calendar months from
 date of closure of all loans/facilities linked to the collateral |
@@ -306,7 +306,7 @@ Miscellaneous Receipts
 | List of documents charges- for issuance of duplicate list of documents post disbursement | Upto Rs.
 500/- + applicable taxes / statutory levies. |
 | Repayment Mode Changes | Upto Rs. 500/- + applicable taxes / statutory levies. |
-| Custody Charges/Property Document Retention charges | Rs. 1000 per calendar month, after 2 
+| Custody Charges/Property Document Retention charges | Rs. 1000 per calendar month, after 2
 calendar months from date of closure of all loans/facilities linked to the collateral |
 | Charges levied on account of non- adherence of sanction terms agreed by customer at the time of
 disbursement of the loan. | Upto 2% charges per annum on principal outstanding for non- compliance of
@@ -898,7 +898,7 @@ EMI break-down chart
 | 29 | 3,97,007 | 2,14,924 | 24,084 | 1,90,840 | 2,06,167 |
 | 30 | 2,06,167 | 2,14,924 | 8,757 | 2,06,167 | 0 |
 Apply Online
-* Interest 
+* Interest
 * Document & Charges
 * Download Forms
 * FAQs

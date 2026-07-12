@@ -78,7 +78,7 @@ Police Personnel) | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
 | Without Collateral (Upto I7.50 lakh) | 9.40% |
 \*EBR = Repo + Spread,
- Currently: Repo rate = 5.25%, Spread = 2.65%, EBR = 7.90%
+Currently: Repo rate = 5.25%, Spread = 2.65%, EBR = 7.90%
 Mean of Interest (Q4 FY26) 9.31%
 *Last Updated On : Saturday, 20-06-2026*
 Interest s
@@ -335,5 +335,5 @@ Tamil (IIIII)
 Telugu (IIIIII)
 Urdu (IIII)
 Powered by
- this translation
+this translation
 Would you like to provide feedback

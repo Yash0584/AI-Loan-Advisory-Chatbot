@@ -1,11 +1,10 @@
 Home Loan EMI Calculator - SBI
- 
 Home Loan EMI calculator is a basic calculator that helps you to calculate
 the EMI, monthly interest and monthly reducing balance on the basis of
 principal amount, loan tenure and interest rate
 Home Loan Amount
 Loan Tenure
-Interest 
+Interest
 *Please provide realistic inputs in all fields to get correct result
 ₹ 97254
 EMI
@@ -42,8 +41,8 @@ Privilege/Shaurya
 1.75Cr
 |
 2Cr
- Yr 
- Mo
+Yr
+Mo
 10
 |
 0Yr
@@ -883,7 +882,6 @@ Approved Project
 Calculators
 FAQs
 Contact Us
-
 Privacy Policy
 Terms &
 Conditions

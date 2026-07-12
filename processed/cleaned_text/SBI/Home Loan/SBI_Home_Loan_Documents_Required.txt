@@ -25,7 +25,6 @@ PAN to be provided in case of non-availability of PAN in Bank’s record.
 SBI Home Loan
 https://homeloans.sbi.bank.in/products/view/regular-home-loan?utm_source=chatgpt.com
 1/3
-
 In case of KYC non-compliant Saving Bank accounts:
 Proof of Identity (Anyone): PAN/ Passport/ Driver’s License/ Voter ID
 card.
@@ -69,7 +68,6 @@ Approved Project
 Calculators
 FAQs
 Contact Us
-
 Privacy Policy
 Terms &
 Conditions

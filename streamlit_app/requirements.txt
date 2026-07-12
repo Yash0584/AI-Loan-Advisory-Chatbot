@@ -1,0 +1,9 @@
+streamlit
+torch
+faiss-cpu
+numpy
+pandas
+sentence-transformers
+google-generativeai
+scikit-learn
+pyngrok

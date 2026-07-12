@@ -1,0 +1,13 @@
+# Ignore sensitive and large data
+processed/
+vector_db/
+models/
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore Google Drive specific artifacts
+.DS_Store
+
+# Ignore credentials
+.env
+.streamlit/secrets.toml

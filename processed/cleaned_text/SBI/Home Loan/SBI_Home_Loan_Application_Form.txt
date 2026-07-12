@@ -1,10 +1,11 @@
-HOME LOAN
+AE oe
 HOME LOAN
 APPLICATION FORM
-FORM – A (PERSONAL DETAILS) 
+\ on
+FORM – A (PERSONAL DETAILS)
 Applicant
 Existing
-Customer: 
+Customer:
 [In case of multiple Borrower/ Guarantor, Form A&B to be Ĥlled separately]
 If yes, CIF No/
 Account No.
@@ -21,20 +22,20 @@ Married
 Divorced
 Widowed
 Residential
-Status: 
+Status:
 RESIDENT INDIAN (RI)
-NON-RESIDENT INDIAN (NRI) 
+NON-RESIDENT INDIAN (NRI)
 PERSON OF INDIAN ORIGIN (PIO)
-FOREIGN CITIZEN (Overseas citizenship of India) 
+FOREIGN CITIZEN (Overseas citizenship of India)
 If NRI,
 Date of Birth:
-VISA Issue Date: 
-Mobile: 
-VISA No.: 
+VISA Issue Date:
+Mobile:
+VISA No.:
 Email:
 PAN:
-First Name 
-Middle Name 
+First Name
+Middle Name
 Last Name
 Co-Applicant
 Guarantor
@@ -44,12 +45,12 @@ Passport No.:
 Driving
 License No.
 MGNREGA Job
-card No. 
+card No.
 Letter issued by National Population Register Containing Name and Address:
 Details of KYC (Minimum one to be Ĥlled)
 Residential Address:
 Permanent Address:
-Address 1: 
+Address 1:
 Address 2:
 Address 3:
 Village:
@@ -68,7 +69,7 @@ passport size
 and sign across the
 photograph
 Current Address:
-Address 1: 
+Address 1:
 Address 2:
 Address 3:
 Village:
@@ -76,7 +77,7 @@ District:
 State:
 Country:
 Contact no. of POA Holder:
-Address type for communication: 
+Address type for communication:
 Pin Code:
 Permanent
 Current
@@ -86,7 +87,7 @@ Company lease
 Owned
 Years residing in current address:
 Household Annual Income:
-No. of existing house/ residential plot owned individually or jointly by the customer: 
+No. of existing house/ residential plot owned individually or jointly by the customer:
 Rs
 Months residing in current address:
 City:
@@ -96,32 +97,31 @@ Others, Please specify
 Father
 Mother
 Brother
-Sister 
+Sister
 Son
 Daughter
 No. of units acquired in single residential housing project/co-operative residential complex:
 Is the customer, who is Builder/ Partner/Director/Owner/Promoter acquiring at/house /unit/plot in the project developed by them /their Company?
 Is Applicant / co-Applicant / Guarantor a director including Chairman and Managing Director) in another bank or speciĤed near relative of any of the director
 ((including Chairman and Managing Director) of SBI /Other Bank
-Power of attorney provided: 
-Name of the POA Holder: 
+Power of attorney provided:
+Name of the POA Holder:
 Signature of Applicant / co-applicant / Guarantor
-Name of the Chairman/ MD or other director: 
-Indicate Name of Bank/ Subsidiary/ Schedule co-operative Banks/ Trustees of Mutual Fund/ Venture Capital Fund: 
+Name of the Chairman/ MD or other director:
+Indicate Name of Bank/ Subsidiary/ Schedule co-operative Banks/ Trustees of Mutual Fund/ Venture Capital Fund:
 If Yes:
-Daughter-in-law 
+Daughter-in-law
 Yes
 No
 Yes
 No
 Yes
 No
-Address 1: 
- 
-ACCOUNT TYPE 
-IFSC CODE 
-BANK NAME 
-BRANCH NAME 
+Address 1:
+ACCOUNT TYPE
+IFSC CODE
+BANK NAME
+BRANCH NAME
 ACCOUNT NUMBER
 Address 2:
 Address 3:
@@ -143,22 +143,22 @@ FORM B - EMPLOYMENT DETAILS
 Applicant
 Co-Applicant
 Guarantor
-Is income considered for loan eligibility? 
+Is income considered for loan eligibility?
 OCCUPATION:
 Salaried
 Self-Employed Professional (Doctor/Engr/Architect/CA)
-Self-Employed Professional Other Than Doctor/Engr/Architect/CA 
+Self-Employed Professional Other Than Doctor/Engr/Architect/CA
 Business
 Agriculturist
 Retired
-Pensioner 
+Pensioner
 Student
 Home Maker
 Unemployed
 SALARIED:
-Organization Type: 
+Organization Type:
 Central Govt
-State Govt 
+State Govt
 Quasi Govt
 Public Sector Units
 Defence
@@ -167,24 +167,24 @@ Other Institutions
 Employment Status:
 Total work experience (Years):
 Type of Pension: Old pension scheme /New pension scheme/UniĤed pension scheme/ EPFO/ Others
-Permanent 
+Permanent
 Total work experience (Months):
 Contractual
 Retainership
 Part Time
 NON-SALARIED:
-Work Experience In Business /Profession: 
+Work Experience In Business /Profession:
 Years
 months
-Net ProĤt Earned In Last Two Years: 
+Net ProĤt Earned In Last Two Years:
 Date Of Retirement:
 Employer’s Name:
 Industry:
-Business Name: 
-Industry Name: 
+Business Name:
+Industry Name:
 OĦce / Business Address
 SALARY/ BUSINESS ACCOUNTS DETAILS
-FOR DEFENCE PERSONNEL: 
+FOR DEFENCE PERSONNEL:
 Gross Monthly income:
 Rs
 Net Monthly Income:
@@ -193,10 +193,10 @@ Yes
 No
 Yes
 No
-Indian Army 
+Indian Army
 Indian Navy
 Indian Air force
-Is there a break in service beyond the period of 3 months in last 2 years 
+Is there a break in service beyond the period of 3 months in last 2 years
 Rs
 Gross Monthly income:
 Rs
@@ -211,21 +211,21 @@ Extension of existing old House/ Flat
 Repair or Renovation an existing old House / Flat
 Takeover of Home Loans from other Banks / HFCs/FIs
 Combo Loan
-Repayment Mode: 
+Repayment Mode:
 Standing instruction
 NACH
-Requested Loan Amount: 
-SI / NACH Start date : 
-( Date should be from 1st of month to 20th of the month ) 
+Requested Loan Amount:
+SI / NACH Start date :
+( Date should be from 1st of month to 20th of the month )
 Guarantee Amount: Rs
-No. of Tranches: 
+No. of Tranches:
 Tenure:
 Month
-Moratorium: 
+Moratorium:
 Month
-Facility: 
+Facility:
 Term Loan
-Whether interest to be capitalized during moratorium period: 
+Whether interest to be capitalized during moratorium period:
 Disbursement Schedule:
 Yes
 No
@@ -236,49 +236,46 @@ No
 OD (Maxgain)
 Hybrid (TL+OD)
 Rs.
-PURPOSE: 
- 
-NAME OF SELLER/ BUILDER 
-ACCOUNT NO. 
-BANK NAME 
-BRANCH NAME 
+PURPOSE:
+NAME OF SELLER/ BUILDER
+ACCOUNT NO.
+BANK NAME
+BRANCH NAME
 IFSC CODE
 SELLERS / BUILDERS DETAILS
- 
-LOAN ACCOUNT NO. 
-BANK / FI 
-PRODUCT NAME 
-SANCTIONED AMOUNT 
-PRESENT OUTSTANDING 
+LOAN ACCOUNT NO.
+BANK / FI
+PRODUCT NAME
+SANCTIONED AMOUNT
+PRESENT OUTSTANDING
 EMI
 EXISTING LOANS (if any)
- 
-ACCOUNT NO. 
-ACCOUNT TYPE 
-NAME OF ACCOUNT HOLDER 
-BANK NAME 
-BRANCH NAME 
+ACCOUNT NO.
+ACCOUNT TYPE
+NAME OF ACCOUNT HOLDER
+BANK NAME
+BRANCH NAME
 IFSC CODE
 ACCOUNT DETAILS FOR STANDING INSTRUCTIONS /NACH
 In case of Takeover, name of bank from where existing loan is maintained:
 Rs.
 Form D - PROPERTY DETAILS
-Project Name (If applicable): 
-RERA Registration No. (If applicable): 
+Project Name (If applicable):
+RERA Registration No. (If applicable):
 Property held / to be held
-in the name of: 
+in the name of:
 Self-constructed
 Small project not covered under RERA
 Property not identiĤed
 Builder Floor
 Independent House
 Row House/ Villas/ Others
-Is property in Tribal Area: 
-Property Value: 
+Is property in Tribal Area:
+Property Value:
 Rs.
-Net Rental income expected from the proposed house property (Monthly): 
+Net Rental income expected from the proposed house property (Monthly):
 Residential Apartment (RERA APPROVED)
-Property Type: 
+Property Type:
 Within the Municipal Corporation area of population >=1 lac
 Date of Agreement to Sale:
 Rs.
@@ -292,17 +289,17 @@ Cost of Interior / Ĥnishing:
 Rs.
 Cost of Solar Photo Voltaic Lighting System:
 Rs.
-GST: 
+GST:
 Rs.
 Premium for insurance of Mortgaged property:
 Rs.
 Other Amenities
 Rs.
-Amount of margin money: 
+Amount of margin money:
 Within the Municipal Corporation area of population > 10,000 up to 1 lac
-Source of Margin Money: 
+Source of Margin Money:
 Own savings
-from friend and relatives 
+from friend and relatives
 Realty gold loan
 other loan
 others
@@ -310,33 +307,33 @@ Outside Municipal / Corporation area and plot developed or allotted by Governmen
 Outside Municipal Corporation area
 Location of Plot (Applicable for SBI Realty Loan):
 CONSTRUCTION /PURCHASE Details:
-Ready for possession 
+Ready for possession
 Under construction
 Construction not started
-Property Status: 
+Property Status:
 Normal sale
-POA Sale 
+POA Sale
 Gift deed
 Sale through third party Guarantor
-Sale transaction Category: 
+Sale transaction Category:
 Yes
 No
 Property holding status:
 Lease
 Free Hold
-Lease period: 
+Lease period:
 Years
 Months
-Built up area (Sq Ft): 
-Building name: 
-Wing name: 
+Built up area (Sq Ft):
+Building name:
+Wing name:
 Flat no:
-Carpet area (sq ft): 
+Carpet area (sq ft):
 .
 .
 Super built-up area (sq ft):
 .
-Address 1: 
+Address 1:
 Address 2:
 Address 3:
 Village:
@@ -347,27 +344,26 @@ Pin Code:
 City:
 Amount as per Agreement to Sale:
 Rs.
- 
-Collateral Owner 
-Collateral Description 
-Collateral Value 
-Collateral Lien Value 
+Collateral Owner
+Collateral Description
+Collateral Value
+Collateral Lien Value
 Address
-Term Deposit 
-NSC/KVP 
+Term Deposit
+NSC/KVP
 Life Insurance Policy
 Govt. Promissory Note
-Immovable Property 
+Immovable Property
 Third Party Guarantee
-Collateral type: 
+Collateral type:
 COLLATERAL DETAILS:
 (Applicable, if collateral required other than Primary Security)
 INSURANCE:
-You can opt to secure your home loan liability through the Group Credit Life Insurance solution/s. Please note that the Insurance cover is optional for home loan borrower and borrower can opt for 
+You can opt to secure your home loan liability through the Group Credit Life Insurance solution/s. Please note that the Insurance cover is optional for home loan borrower and borrower can opt for
 insurance cover from any Insurance service provider.
-In case the Borrower intends to take loan for insurance cover, the premium amount can be sanctioned as a SURAKSHA Loan and the repayment of loan should be co-terminus with the Home Loan. 
+In case the Borrower intends to take loan for insurance cover, the premium amount can be sanctioned as a SURAKSHA Loan and the repayment of loan should be co-terminus with the Home Loan.
 FORM E – INSURANCE & DECLARATIONS:
-Do you wish life cover for Home Loan 
+Do you wish life cover for Home Loan
 Yes
 No
 Need Suraksha Loan for Life premium:
@@ -376,164 +372,157 @@ No
 Need loan for insurance for mortgage property required:
 Yes
 No
-1. 
-I/We certify that the information and particulars provided by me/us in this application form (and all documents referred or provided herewith) are true, correct, complete and up to date in all 
-respects and I have not withheld any information. I/ We authorize State Bank of India to make inquiries related to or verify said information directly or through any third party. I/We further 
-acknowledge the Bank's right to seek any information from any other source in this regard. I/We understand that all of the above-mentioned information shall form the basis of any facility that 
+1.
+I/We certify that the information and particulars provided by me/us in this application form (and all documents referred or provided herewith) are true, correct, complete and up to date in all
+respects and I have not withheld any information. I/ We authorize State Bank of India to make inquiries related to or verify said information directly or through any third party. I/We further
+acknowledge the Bank's right to seek any information from any other source in this regard. I/We understand that all of the above-mentioned information shall form the basis of any facility that
 the Bank may decide to grant to me/us at its sole discretion.
-2. 
-I/we understand that the Bank will use the information furnished by me/us in accordance with the applicable laws of India and any other foreign laws to which I/we/the Bank may be subject to. 
-The said information will be used solely for the purpose of processing, sanctioning, updating, maintaining, and operating my/our account/s or facility/ies availed by me/us and processing 
-transactions initiated by me/us in such account/ pursuant to such facility. 
-3. 
-I/We agree and undertake to provide any further information that Bank may require. I/We agree and understand that Bank reserve the right to retain the application form, and the documents 
-provided therewith and will not return the same to me/us. 
-4. 
-I/We further agree that any facility that may be provided to me/us shall be governed by the rules of the Bank that may be in force from time to time. I/We will be bound by the terms and 
+2.
+I/we understand that the Bank will use the information furnished by me/us in accordance with the applicable laws of India and any other foreign laws to which I/we/the Bank may be subject to.
+The said information will be used solely for the purpose of processing, sanctioning, updating, maintaining, and operating my/our account/s or facility/ies availed by me/us and processing
+transactions initiated by me/us in such account/ pursuant to such facility.
+3.
+I/We agree and undertake to provide any further information that Bank may require. I/We agree and understand that Bank reserve the right to retain the application form, and the documents
+provided therewith and will not return the same to me/us.
+4.
+I/We further agree that any facility that may be provided to me/us shall be governed by the rules of the Bank that may be in force from time to time. I/We will be bound by the terms and
 conditions of the credit facility/ies that may be granted to me/us. I/We authorize the Bank to debit my home loan account with the Bank for any fees, charges, interest etc. as may be applicable.
-5. 
-I/We undertake and declare that I/we will comply with the Foreign Exchange Management Act, 1999 (”FEMA”) and the applicable rules, regulations, notiĤcations, directions or orders made there 
+5.
+I/We undertake and declare that I/we will comply with the Foreign Exchange Management Act, 1999 (”FEMA”) and the applicable rules, regulations, notiĤcations, directions or orders made there
 under and any amendments thereof. I/We undertake to intimate the Bank before proceeding overseas on permanent employment and/or emigrating and/or changing my/our nationality.
-6. 
-I/We acknowledge that the Bank remains entitled to assign any activities to any third-party agency at its sole discretion. I/ We hereby consent to, agree and authorize the Bank to disclose 
-information and data relating to me/ us and details of my/our account to third party agencies including Bank’s group entities, without any speciĤc consent or authorization from me/us, for the 
-purpose of any services in connection with the facility/ies availed by me/ us and I/we shall not hold the Bank liable for use of this information. 
-7. 
- I/we hereby agree and give consent for the disclosure or obtention by the Bank of all or any such; (a) information and data (including personal data) relating to me/us (b) the information or data 
-relating to any credit facility availed of/to be availed of by me/us and (c) default, if any, committed by me/us in discharge of my/our such obligation, as the Bank may deem appropriate and 
-necessary, to Credit Information Companies, Information Utilities, and/or any other agency authorised in this behalf by Government of India/ Reserve bank of India /any other statutory or 
-regulatory authority for purposes of credit decision, prevention of fraud and money laundering, reporting obligations or any other related and ancillary matters. I/We shall not hold the Bank liable 
-for use of this information. I/We understand and agree that such Credit Information Companies, Information Utilities, and/or other agencies may use or process the said information and data 
-disclosed by the Bank; and/or furnish, such information and data (including the processed information/ data) or products thereof prepared by them to banks/Ĥnancial institutions and other 
-entities, as may be speciĤed by the concerned statutory/ regulatory authority in this behalf. 
-8. 
-I/We agree to receive SMS alerts/Phone calls related to my/our application status and account activity as well as product use messages/calls that the Bank will send/make, from time to time, 
-on the mobile/phone number/ email as mentioned in this application form. I/We undertake to intimate the Bank in the event of any change in the mobile/ phone number/ email and residential 
-address furnished by me/us. 
-9. 
+6.
+I/We acknowledge that the Bank remains entitled to assign any activities to any third-party agency at its sole discretion. I/ We hereby consent to, agree and authorize the Bank to disclose
+information and data relating to me/ us and details of my/our account to third party agencies including Bank’s group entities, without any speciĤc consent or authorization from me/us, for the
+purpose of any services in connection with the facility/ies availed by me/ us and I/we shall not hold the Bank liable for use of this information.
+7.
+I/we hereby agree and give consent for the disclosure or obtention by the Bank of all or any such; (a) information and data (including personal data) relating to me/us (b) the information or data
+relating to any credit facility availed of/to be availed of by me/us and (c) default, if any, committed by me/us in discharge of my/our such obligation, as the Bank may deem appropriate and
+necessary, to Credit Information Companies, Information Utilities, and/or any other agency authorised in this behalf by Government of India/ Reserve bank of India /any other statutory or
+regulatory authority for purposes of credit decision, prevention of fraud and money laundering, reporting obligations or any other related and ancillary matters. I/We shall not hold the Bank liable
+for use of this information. I/We understand and agree that such Credit Information Companies, Information Utilities, and/or other agencies may use or process the said information and data
+disclosed by the Bank; and/or furnish, such information and data (including the processed information/ data) or products thereof prepared by them to banks/Ĥnancial institutions and other
+entities, as may be speciĤed by the concerned statutory/ regulatory authority in this behalf.
+8.
+I/We agree to receive SMS alerts/Phone calls related to my/our application status and account activity as well as product use messages/calls that the Bank will send/make, from time to time,
+on the mobile/phone number/ email as mentioned in this application form. I/We undertake to intimate the Bank in the event of any change in the mobile/ phone number/ email and residential
+address furnished by me/us.
+9.
 I/We further acknowledge that I/ we have read, understood and agree with the Most Important Terms and Conditions governing the home loan product chosen by me/us.
-10. 
-I/We authorize the Bank to share, disclose, exchange, receive or use in any manner whatsoever, without any further speciĤc consent or authorisation from me/us, the information/data 
-provided by/related to me/us to/ from the Group Companies/Associates/Subsidiaries/AĦliates/Joint Ventures of State Bank of India/ any person with whom the Bank has entered/propose 
-to enter into contracts for provision of Life insurance product/ services(either paid through Bank Ĥnance or self-paid by me/ us), property insurance product/ services and mortgage guarantee 
-product / services, as opted by me /us in the loan application form/ product speciĤc form. 
- 
+10.
+I/We authorize the Bank to share, disclose, exchange, receive or use in any manner whatsoever, without any further speciĤc consent or authorisation from me/us, the information/data
+provided by/related to me/us to/ from the Group Companies/Associates/Subsidiaries/AĦliates/Joint Ventures of State Bank of India/ any person with whom the Bank has entered/propose
+to enter into contracts for provision of Life insurance product/ services(either paid through Bank Ĥnance or self-paid by me/ us), property insurance product/ services and mortgage guarantee
+product / services, as opted by me /us in the loan application form/ product speciĤc form.
 ADDITIONAL CONSENT FOR EU /UK NRI CUSTOMERS:
-I. 
-I/we understand that the State Bank of India (SBI or the Bank), will use the information furnished by me/us in relation to the application dated: 
-to 
-open 
-my/our 
-Account 
-and/or 
-update/modify/operate/service such in accordance with the applicable laws of India and any other foreign laws to which I/we (or) the Bank may be subject to. The said information will be used 
+I.
+I/we understand that the State Bank of India (SBI or the Bank), will use the information furnished by me/us in relation to the application dated:
+to
+open
+my/our
+Account
+and/or
+update/modify/operate/service such in accordance with the applicable laws of India and any other foreign laws to which I/we (or) the Bank may be subject to. The said information will be used
 solely for the purpose of opening, updating, maintaining, and operating my/our account and account(s) opened subsequently and processing transactions initiated by me/us in those accounts.
-II. 
-SBI may share my/our personal data with and obtain personal data about me/us from credit information companies (CIBIL, Equifax, etc.) and/or regulatory/fraud prevention agencies whether 
+II.
+SBI may share my/our personal data with and obtain personal data about me/us from credit information companies (CIBIL, Equifax, etc.) and/or regulatory/fraud prevention agencies whether
 in India or elsewhere to verify my identity for credit decision purposes, fraud and Money Laundering prevention & other reporting obligations and any other related and ancillary matters
-III. 
-SBI may send its NRI Newsletter (or) marketing information and/or any special oģers I/we may be entitled to or about products and services available from SBI / SBI Group that may be of interest 
+III.
+SBI may send its NRI Newsletter (or) marketing information and/or any special oģers I/we may be entitled to or about products and services available from SBI / SBI Group that may be of interest
 to me/us
- 
-(Please mention “Yes”, if interested and “No”, if not interested) 
- 
-If interested, please tick the relevant boxes. I/we prefer following mode of communication. (Customer may tick anyone/ two (or) all boxes) 
- 
- Email 
-Phone 
- SMS
-IV. 
-SBI may transfer data collected at European Union (EU) and United Kingdom (UK) to India. I/We understand that India has not been adjudged as an ‘adequate’ country under Art. 45 of EU GDPR/ 
-subsection 18 of part 2 & subsection 74 of chapter 5 of UK DPA. This implies that India may have less stringent laws pertaining to collection /processing /storage/disclosure of personal data. By 
-signing this Consent Form, I/We hereby provide my/our explicit consent to transfer data outside EU/UK to India. 
-V. 
-SBI will update me/us on required changes regarding my/our account. SBI will communicate to me/us about the banking transactions undertaken by me, through Phone/Mobile No./e-mail 
+(Please mention “Yes”, if interested and “No”, if not interested)
+If interested, please tick the relevant boxes. I/we prefer following mode of communication. (Customer may tick anyone/ two (or) all boxes)
+Email
+Phone
+SMS
+IV.
+SBI may transfer data collected at European Union (EU) and United Kingdom (UK) to India. I/We understand that India has not been adjudged as an ‘adequate’ country under Art. 45 of EU GDPR/
+subsection 18 of part 2 & subsection 74 of chapter 5 of UK DPA. This implies that India may have less stringent laws pertaining to collection /processing /storage/disclosure of personal data. By
+signing this Consent Form, I/We hereby provide my/our explicit consent to transfer data outside EU/UK to India.
+V.
+SBI will update me/us on required changes regarding my/our account. SBI will communicate to me/us about the banking transactions undertaken by me, through Phone/Mobile No./e-mail
 provided by me/us.
-VI. 
-By 
-signing 
-this 
-Consent 
-Form, 
-I/we 
-conĤrm 
-that 
-I/we 
-have 
-read 
-the 
-Privacy 
-Notice 
-provided 
-to 
-me/us 
-through 
-physical 
-copy 
-and/or 
-available 
-at 
+VI.
+By
+signing
+this
+Consent
+Form,
+I/we
+conĤrm
+that
+I/we
+have
+read
+the
+Privacy
+Notice
+provided
+to
+me/us
+through
+physical
+copy
+and/or
+available
+at
 https://bank.sbi/web/nri/privacy-notice-andconsent-forms and provide consent to SBI for collecting, transferring, holding and processing my personal data as indicated therein
-VII. 
-Applicable only in case of processing personal data of Minor 
- 
-I/We, lawful guardian of ________________________, minor who is under 18 years of age hereby consent for processing of my Ward’s personal data as required under Art. 8 of GDPR/ subsection 
-9 of part 2 of UK DPA. 
- 
-The above section is subject to regulations issues by RBI for providing banking and ancillary services in India. In case of a conĥict between EU-GDPR/UK- DPA/Privacy laws applicable in EU and 
+VII.
+Applicable only in case of processing personal data of Minor
+I/We, lawful guardian of ________________________, minor who is under 18 years of age hereby consent for processing of my Ward’s personal data as required under Art. 8 of GDPR/ subsection
+9 of part 2 of UK DPA.
+The above section is subject to regulations issues by RBI for providing banking and ancillary services in India. In case of a conĥict between EU-GDPR/UK- DPA/Privacy laws applicable in EU and
 any law applicable in India, Indian law shall prevail.
-VIII. I/We further understand that as and when SBI updates its Privacy Notice, it will publish the same on its website. I/we undertake to consult SBI’s website at regular intervals and conĤrm any new 
+VIII. I/We further understand that as and when SBI updates its Privacy Notice, it will publish the same on its website. I/we undertake to consult SBI’s website at regular intervals and conĤrm any new
 version of the Privacy Notice will apply from the date it is published thereon.
-IX. 
-I/We understand that under the conditions deĤned by the General Data Protection Regulations EU-GDPR/UK DPA (or) similar foreign regulations, unless otherwise provided I/we have the 
+IX.
+I/We understand that under the conditions deĤned by the General Data Protection Regulations EU-GDPR/UK DPA (or) similar foreign regulations, unless otherwise provided I/we have the
 rights
-• 
-to withdraw my/our consent at any time. 
-• 
-to obtain conĤrmation from SBI, whether it processes my personal data (PD) (or) not and, if it processes, details thereof, like the purpose, categories of PD concerned, recipients or 
-categories of recipients to whom my personal data have been or will be communicated etc. 
-• 
-the retention period of the personal data envisaged or, where this is not possible, the criteria used to determine this duration, etc. 
-• 
-access, rectiĤcation and/or erasure of my personal data, subject to relevant regulatory guidelines. 
-• 
-in certain circumstances, receive my/our personal data provided to SBI, in a structured, commonly used and legible format, and the right to transfer this data to another data controller 
-However, we understand that the right to data portability is dependent on regulatory instructions & system enablement that are still evolving. 
-• 
+•
+to withdraw my/our consent at any time.
+•
+to obtain conĤrmation from SBI, whether it processes my personal data (PD) (or) not and, if it processes, details thereof, like the purpose, categories of PD concerned, recipients or
+categories of recipients to whom my personal data have been or will be communicated etc.
+•
+the retention period of the personal data envisaged or, where this is not possible, the criteria used to determine this duration, etc.
+•
+access, rectiĤcation and/or erasure of my personal data, subject to relevant regulatory guidelines.
+•
+in certain circumstances, receive my/our personal data provided to SBI, in a structured, commonly used and legible format, and the right to transfer this data to another data controller
+However, we understand that the right to data portability is dependent on regulatory instructions & system enablement that are still evolving.
+•
 In certain circumstances object to the processing of my/our personal data
-• 
+•
 to lodge a complaint with the relevant data protection authority of my jurisdiction
-11. 
-I / we agree to execute the loan / security documents by way of digital document execution facility. 
- 
+11.
+I / we agree to execute the loan / security documents by way of digital document execution facility.
 Yes No
 By signing the below, I/we indicate my/our acceptance, hereof
 (sign in the box)
 (sign in the box)
 Signature of Applicant / Co applicant / Guarantor
-Place: 
+Place:
 Date:
 CONSENT -CUM-DECLARATION (FOR ALL APPLICANTS)
 Loan application received on
 -
 -
-, complete document set received on 
+, complete document set received on
 -
 -
 . Cheques received towards payment of Processing
 Fee, Valuation Fee and Legal Fee amounting to Rs.
-, 
+,
 Rs.
- and
-Rs. 
- respectively vide cheque 
+and
+Rs.
+respectively vide cheque
 numbers
 ,
 and
-dated 
+dated
 -
 -
- ; drawn in favour of “State Bank of India” and payable at
+; drawn in favour of “State Bank of India” and payable at
 .
 Request will be disposed of and acceptance/rejection notiĤcation would be mailed within 15 days from the date of receipt of completed application form with supporting documents.
 On behalf of State Bank of India
